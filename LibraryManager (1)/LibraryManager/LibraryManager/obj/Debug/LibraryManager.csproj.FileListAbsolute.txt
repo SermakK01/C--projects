@@ -1,0 +1,41 @@
+C:\Users\PLMISER\source\repos\LibraryManager\LibraryManager\bin\Debug\LibraryDB.mdf
+C:\Users\PLMISER\source\repos\LibraryManager\LibraryManager\bin\Debug\LibraryDB_log.ldf
+C:\Users\PLMISER\source\repos\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe.config
+C:\Users\PLMISER\source\repos\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe
+C:\Users\PLMISER\source\repos\LibraryManager\LibraryManager\bin\Debug\LibraryManager.pdb
+C:\Users\PLMISER\source\repos\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.AssemblyReference.cache
+C:\Users\PLMISER\source\repos\LibraryManager\LibraryManager\obj\Debug\LibraryManager.AdminPanel.resources
+C:\Users\PLMISER\source\repos\LibraryManager\LibraryManager\obj\Debug\LibraryManager.BorrowingForm.resources
+C:\Users\PLMISER\source\repos\LibraryManager\LibraryManager\obj\Debug\LibraryManager.LibraryNonReg.resources
+C:\Users\PLMISER\source\repos\LibraryManager\LibraryManager\obj\Debug\LibraryManager.LibraryUser.resources
+C:\Users\PLMISER\source\repos\LibraryManager\LibraryManager\obj\Debug\LibraryManager.LoginForm.resources
+C:\Users\PLMISER\source\repos\LibraryManager\LibraryManager\obj\Debug\LibraryManager.Properties.Resources.resources
+C:\Users\PLMISER\source\repos\LibraryManager\LibraryManager\obj\Debug\LibraryManager.RegisterForm.resources
+C:\Users\PLMISER\source\repos\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.GenerateResource.cache
+C:\Users\PLMISER\source\repos\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.CoreCompileInputs.cache
+C:\Users\PLMISER\source\repos\LibraryManager\LibraryManager\obj\Debug\LibraryManager.exe
+C:\Users\PLMISER\source\repos\LibraryManager\LibraryManager\obj\Debug\LibraryManager.pdb
+C:\Users\PLMISER\source\repos\LibraryManager\LibraryManager\obj\Debug\LibraryManager.LibraryAdmin.resources
+C:\Users\PLMISER\source\repos\LibraryManager\LibraryManager\bin\Debug\microsoft.identitymodel.dll
+C:\Users\PLMISER\source\repos\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.CopyComplete
+C:\Users\kijpi\OneDrive\Pulpit\LibraryManager (1)\LibraryManager\LibraryManager\bin\Debug\LibraryDB.mdf
+C:\Users\kijpi\OneDrive\Pulpit\LibraryManager (1)\LibraryManager\LibraryManager\bin\Debug\LibraryDB_log.ldf
+C:\Users\kijpi\OneDrive\Pulpit\LibraryManager (1)\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe.config
+C:\Users\kijpi\OneDrive\Pulpit\LibraryManager (1)\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe
+C:\Users\kijpi\OneDrive\Pulpit\LibraryManager (1)\LibraryManager\LibraryManager\bin\Debug\LibraryManager.pdb
+C:\Users\kijpi\OneDrive\Pulpit\LibraryManager (1)\LibraryManager\LibraryManager\bin\Debug\microsoft.identitymodel.dll
+C:\Users\kijpi\OneDrive\Pulpit\LibraryManager (1)\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.AssemblyReference.cache
+C:\Users\kijpi\OneDrive\Pulpit\LibraryManager (1)\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\kijpi\OneDrive\Pulpit\LibraryManager (1)\LibraryManager\LibraryManager\obj\Debug\LibraryManager.AdminPanel.resources
+C:\Users\kijpi\OneDrive\Pulpit\LibraryManager (1)\LibraryManager\LibraryManager\obj\Debug\LibraryManager.BorrowingForm.resources
+C:\Users\kijpi\OneDrive\Pulpit\LibraryManager (1)\LibraryManager\LibraryManager\obj\Debug\LibraryManager.LibraryAdmin.resources
+C:\Users\kijpi\OneDrive\Pulpit\LibraryManager (1)\LibraryManager\LibraryManager\obj\Debug\LibraryManager.LibraryNonReg.resources
+C:\Users\kijpi\OneDrive\Pulpit\LibraryManager (1)\LibraryManager\LibraryManager\obj\Debug\LibraryManager.LibraryUser.resources
+C:\Users\kijpi\OneDrive\Pulpit\LibraryManager (1)\LibraryManager\LibraryManager\obj\Debug\LibraryManager.LoginForm.resources
+C:\Users\kijpi\OneDrive\Pulpit\LibraryManager (1)\LibraryManager\LibraryManager\obj\Debug\LibraryManager.Properties.Resources.resources
+C:\Users\kijpi\OneDrive\Pulpit\LibraryManager (1)\LibraryManager\LibraryManager\obj\Debug\LibraryManager.RegisterForm.resources
+C:\Users\kijpi\OneDrive\Pulpit\LibraryManager (1)\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.GenerateResource.cache
+C:\Users\kijpi\OneDrive\Pulpit\LibraryManager (1)\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.CoreCompileInputs.cache
+C:\Users\kijpi\OneDrive\Pulpit\LibraryManager (1)\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.CopyComplete
+C:\Users\kijpi\OneDrive\Pulpit\LibraryManager (1)\LibraryManager\LibraryManager\obj\Debug\LibraryManager.exe
+C:\Users\kijpi\OneDrive\Pulpit\LibraryManager (1)\LibraryManager\LibraryManager\obj\Debug\LibraryManager.pdb
